@@ -1,9 +1,11 @@
-button {
-	margin-top:30px;
+button 
+{
+	margin-top:0px;
 	float:left;
-	height:50px;
+	height:100px;
 }
-img {
+img 
+{
 	float:left;
 	margin-right:10px;
 	margin-left:10px;
